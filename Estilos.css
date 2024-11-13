@@ -1,19 +1,11 @@
-h1 {  
-    color: rgb(9, 255, 0);  
-    font-size: 24px;  
-    text-align: center;  
-}  
-
-/* Estilos para el párrafo p */  
-p {  
-    color: rgb(128, 0, 0);  
-    font-size: 18px;  
-    line-height: 1.5;  
-    text-align: justify;  
-}  
-
-/* Estilos para la imagen */  
-img {  
-    width: 30%;  
-    border: 2px solid rgb(5, 5, 5);  
-}  
+h1{
+    color: rgb(42, 165, 93);
+    font-size: 30px;
+}
+p{
+    color: rgb(163, 43, 13);
+    font-family: 'Times New Roman', Times, serif;
+    }
+img {
+    border: 2px solid rgba(0, 0, 0, 0.856);
+}
